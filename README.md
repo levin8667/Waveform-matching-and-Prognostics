@@ -1,2 +1,7 @@
-# waveform-matching-Mileage-correction
+# waveform-matching
 Waveform Matching in Time Domain for Dynamic Detection Data of High-Speed Railway
+
+高速铁路的动态不平顺影响着乘客的舒适性乃至线路的行车安全，因此各铁路局安排轨道检查车（和谐号动车组）进行轨道动态不平顺的检测（0.25m一个测点），根据计划，一条高铁线路（以京沪高铁为例）每月上中下旬往返运行三次，单次单程产生的数据量为5272000条，且每次的检测数据都会因为轨道检查车的影响产生【里程误差】，时域上表现为波形错位，此误差非常量也非随时间累计的线性函数，因此对于每次的不平顺数据的预处理工作变得尤为重要。
+
+本项目分为波形匹配和伤损检测两大部分，在这一repository详述波形匹配过程。
+
