@@ -10,4 +10,4 @@
 
 * 本项目用到的主要工具python(numpy, pandas, scipy, pywt, matplotlib, bokeh, pyecharts, pyqt5, MySQL)
 
-![ChessUrl](https://cl.ly/5f15a182a57e/download/second.gif)
+![ChessUrl](https://p78.f0.n0.cdn.getcloudapp.com/items/kpu8DDb9/46b5573c-9f4a-4808-841d-842a628052ae.gif?source=viewer&v=37018064ff3bcb7172e5457a4853ecc3)
