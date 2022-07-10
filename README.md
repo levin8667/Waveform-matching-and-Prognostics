@@ -11,3 +11,9 @@
 * 本项目用到的主要工具python(numpy, pandas, scipy, pywt, matplotlib, bokeh, pyecharts, pyqt5, MySQL)
 
 ![ChessUrl](https://p78.f0.n0.cdn.getcloudapp.com/items/kpu8DDb9/46b5573c-9f4a-4808-841d-842a628052ae.gif?source=viewer&v=37018064ff3bcb7172e5457a4853ecc3)
+
+论文：
+
+1、 [胀板区段的高低不平顺时频特征及其评估方法](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=ZDCJ202013018&uniplatform=NZKPT&v=xXmWh5X0pLGxZCF98v-gzRD6RQ_NiqsVyj_ysvlP-nO0Jy4J0EOQDnAsOZedMmex)
+
+2、[基于轨道平顺性的线路质量分析及其评估方法](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021535038.nh&uniplatform=NZKPT&v=Hc041iUTCbhu5uqvunrcaLOu8HQ0YATwm4rRrq4mfYxyN0VuiW2BiFzGZIN5CGl2)
