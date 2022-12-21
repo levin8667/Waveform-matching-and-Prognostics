@@ -8,7 +8,7 @@
 
   2、经第一步预处理和里程校正后的数据可以直接用于后续的时频分析，设计轨道线路故障诊断算法，建立自动化评估系统。
 
-* 本项目用到的主要工具python(numpy, pandas, scipy, pywt, matplotlib, bokeh, pyecharts, pyqt5, MySQL)
+* 本项目用到的主要工具HDFS,Python(numpy, pandas, pyspark, pywt, matplotlib, bokeh, pyecharts, pyqt5)
 
 ![ChessUrl](https://p78.f0.n0.cdn.getcloudapp.com/items/kpu8DDb9/46b5573c-9f4a-4808-841d-842a628052ae.gif?source=viewer&v=37018064ff3bcb7172e5457a4853ecc3)
 
